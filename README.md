@@ -8,3 +8,15 @@
 ![Image text](https://github.com/wa1tzy/Pytorch-U2net/blob/master/test_data/u2net_results/girl.png)
 
 ![Image text](https://github.com/wa1tzy/Pytorch-U2net/blob/master/test_data/u2net_crops/girl_crop.png)
+
+# Train
+
+数据集获取：
+链接：https://pan.baidu.com/s/1wFxSswxDSY9VS3FBKyTPxw 
+提取码：sofm
+
+# Inference
+
+权重获取：
+链接：https://pan.baidu.com/s/1vE-0kYD3oddqlMdVo1FMAg 
+提取码：sofm
